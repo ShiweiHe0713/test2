@@ -1,3 +1,4 @@
+// this is to test the syncing
 const path = require('path')
 const webpack = require('webpack')
 const GitRevisionPlugin = require('git-revision-webpack-plugin')
