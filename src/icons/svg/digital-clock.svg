@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="72px" height="28px" viewBox="0 0 72 28" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>数字时钟</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <radialGradient cx="50%" cy="52.1222618%" fx="50%" fy="52.1222618%" r="227.343958%" gradientTransform="translate(0.500000,0.521223),scale(1.000000,0.785714),rotate(180.000000),scale(1.000000,0.272226),translate(-0.500000,-0.521223)" id="radialGradient-1">
+            <stop stop-color="#214272" stop-opacity="0.1" offset="0%"></stop>
+            <stop stop-color="#1F4170" stop-opacity="0.2" offset="100%"></stop>
+        </radialGradient>
+    </defs>
+        <g id="图标汇总" transform="translate(-730.000000, -813.000000)">
+            <g id="编组-18" transform="translate(730.000000, 813.000000)">
+                <g id="编组-17">
+                    <polygon id="矩形" fill="url(#radialGradient-1)" points="0 0 22 0 22 28 0 28"></polygon>
+                    <text id="2" font-family="DigifaceWide" font-size="21.2678937" font-style="expanded" font-weight="normal" >
+                        <tspan x="3" y="22">2</tspan>
+                    </text>
+                    <polygon id="矩形" fill="url(#radialGradient-1)" points="25 0 47 0 47 28 25 28"></polygon>
+                    <text id="0" font-family="DigifaceWide" font-size="21.2678937" font-style="expanded" font-weight="normal" >
+                        <tspan x="28" y="22">0</tspan>
+                    </text>
+                    <polygon id="矩形" fill="url(#radialGradient-1)" points="50 0 72 0 72 28 50 28"></polygon>
+                    <text id="0" font-family="DigifaceWide" font-size="21.2678937" font-style="expanded" font-weight="normal" >
+                        <tspan x="53" y="22">0</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+</svg>

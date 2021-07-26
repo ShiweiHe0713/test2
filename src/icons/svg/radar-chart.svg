@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    
+    <desc>Created with Sketch.</desc>
+        <g id="图标汇总" transform="translate(-869.000000, -316.000000)" fill-rule="nonzero">
+            <g id="雷达图" transform="translate(869.000000, 316.000000)">
+                <rect id="矩形" fill="#000000" opacity="0" x="0" y="0" width="40" height="40"></rect>
+                <path d="M20,0.98 L0,15.5 L7.64,39.02 L32.36,39.02 L40,15.5 L20,0.98 Z M35.86,15.38 L33.3,15.96 L21.18,8.56 L21.18,4.72 L35.86,15.38 Z M18.84,4.72 L18.84,8.68 L9.08,16.5 L4.14,15.4 L18.84,4.72 Z M3.12,17.54 L8.58,18.76 L10.8,32.16 L8.84,35.1598438 L3.12,17.54 L3.12,17.54 Z M10.64,36.68 L12.96,33.12 L23.74,28.04 L29.3601563,36.7 L10.64,36.7 L10.64,36.68 L10.64,36.68 Z M31.16,35.1598438 L25.62,26.64 L33.34,18.34 L36.88,17.54 L31.16,35.1598438 L31.16,35.1598438 Z" id="形状" ></path>
+        </g>
+    </g>
+</svg>
